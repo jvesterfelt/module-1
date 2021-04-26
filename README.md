@@ -12,3 +12,5 @@ https://jvesterfelt.github.io/module-1-Run-Buddy/
 
 ## Contribution
 Made with ❤️ by Jamie
+
+### ©️2019 Run Buddy, Inc 
